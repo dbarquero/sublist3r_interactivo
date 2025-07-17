@@ -32,7 +32,9 @@ cd sublist3r_interactivo
 chmod +x sublist3r_interactivo.sh
 ./sublist3r_interactivo.sh
 
-El script detectará si ya existen:
+---
+
+## El script detectará si ya existen:
 
 El entorno virtual (sublist3r-venv)
 El repositorio Sublist3r (Sublist3r/)
