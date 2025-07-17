@@ -34,16 +34,3 @@ chmod +x sublist3r_interactivo.sh
 
 ---
 
-## El script detectará si ya existen:
-
-El entorno virtual (sublist3r-venv)
-El repositorio Sublist3r (Sublist3r/)
-Si ya existen, los reutiliza sin volver a instalar nada.
-
----
-Autor
-dbarquero
-Especialista en Ciberseguridad – CyberBalance
----
-Legal
-Este script se proporciona solo con fines educativos y legales. No se debe utilizar en dominios sin autorización explícita. El autor no se hace responsable del mal uso.
